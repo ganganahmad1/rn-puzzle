@@ -1,0 +1,31 @@
+const pieces = {
+  5: [
+    {id: 0, left: 0, top: 0, right: 0, bottom: 0},
+    {id: 1, left: 1, top: 0, right: 1, bottom: 1},
+    {id: 2, left: 0, top: 0, right: 0, bottom: 0},
+    {id: 3, left: 1, top: 0, right: 1, bottom: 1},
+    {id: 4, left: 0, top: 0, right: 0, bottom: 0},
+    {id: 5, left: 0, top: 1, right: 1, bottom: 0},
+    {id: 6, left: 0, top: 0, right: 0, bottom: 1},
+    {id: 7, left: 1, top: 1, right: 1, bottom: 0},
+    {id: 8, left: 0, top: 0, right: 0, bottom: 1},
+    {id: 9, left: 1, top: 1, right: 0, bottom: 0},
+    {id: 10, left: 0, top: 1, right: 0, bottom: 0},
+    {id: 11, left: 1, top: 0, right: 1, bottom: 1},
+    {id: 12, left: 0, top: 1, right: 0, bottom: 1},
+    {id: 13, left: 1, top: 0, right: 1, bottom: 1},
+    {id: 14, left: 0, top: 1, right: 0, bottom: 0},
+    {id: 15, left: 0, top: 1, right: 1, bottom: 1},
+    {id: 16, left: 0, top: 0, right: 0, bottom: 0},
+    {id: 17, left: 1, top: 0, right: 1, bottom: 1},
+    {id: 18, left: 0, top: 0, right: 0, bottom: 0},
+    {id: 19, left: 1, top: 1, right: 0, bottom: 1},
+    {id: 20, left: 0, top: 0, right: 0, bottom: 0},
+    {id: 21, left: 1, top: 1, right: 1, bottom: 0},
+    {id: 22, left: 0, top: 0, right: 0, bottom: 0},
+    {id: 23, left: 1, top: 1, right: 1, bottom: 0},
+    {id: 24, left: 0, top: 0, right: 0, bottom: 0},
+  ],
+}
+
+export default pieces
